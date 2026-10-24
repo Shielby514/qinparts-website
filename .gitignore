@@ -7,3 +7,6 @@ Thumbs.db
 # 本地验收截图与临时备份
 _prev_*.png
 .backup-oe-before-fix/
+
+# 本地截图与拼图
+tmp_shots/
