@@ -49,8 +49,8 @@ footer.site a{color:var(--mute);margin-right:14px}
 @media(max-width:760px){
 header.site .wrap{padding:12px 20px;row-gap:10px}
 .brand{order:1;width:100%;margin-right:0}
-nav.top{order:2;width:100%;margin-left:0}
-nav.top a{margin-left:0;margin-right:16px}
+nav.top{order:2;width:100%;margin-left:0;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+nav.top a{margin:0}
 .brand img{height:28px}
 .brand-flag{font-size:9px;letter-spacing:.5px}
 }
