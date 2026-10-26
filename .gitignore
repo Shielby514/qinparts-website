@@ -10,3 +10,11 @@ _prev_*.png
 
 # 本地截图与拼图
 tmp_shots/
+
+# 图片替换前的原图备份与试点中间产物
+.backup-img-orig/
+tmp_pilot/
+tmp_pilot_out/
+tmp_*.png
+.workbuddy/img_audit.json
+.workbuddy/img_types.json
